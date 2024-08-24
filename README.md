@@ -2,6 +2,7 @@
 
 ## Project Link
 [MERN CHAT APP](https://mernchatapp-1rjs.onrender.com)
+
 Some Features:
 
 -   🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
